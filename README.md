@@ -1,9 +1,9 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=BUGATTI+;A+WHATSAPP+BOT;CREATED+BY+MARISEL+KING" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=IMMORTAL+DRAGON+;A+WHATSAPP+BOT;CREATED+BY+SIR+ANTONY" alt="Typing SVG" /></a>
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x">
-    <img alt="wasi" height="400" src="https://telegra.ph/file/ec469447d91f56a74f189.jpg">
+    <img alt="wasi" height="400" src="https://files.catbox.moe/9pngse.jpg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <h1 align="center">BUGATTI</h1>
   </a>
@@ -17,10 +17,10 @@
 <p/>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-<a href="https://github.com/betingrich?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/betingrich?label=Followers&style=social"></a>
-<a href="https://github.com/betingrich/JEEP/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/betingrich/Bugatti?&style=social"></a>
-<a href="https://github.com/betingrich/JEEP/network/members"><img title="Fork" src="https://img.shields.io/github/forks/betingrich/Bugatti?style=social"></a>
-<a href="https://github.com/betingrich/JEEP/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/betingrich/Bugatti?label=Watching&style=social"></a>
+<a href="https://github.com/betingrich?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/botdep24?label=Followers&style=social"></a>
+<a href="https://github.com/betingrich/JEEP/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/botdep24/Immortal_Dragon?&style=social"></a>
+<a href="https://github.com/betingrich/JEEP/network/members"><img title="Fork" src="https://img.shields.io/github/forks/botdep24/Immortal_dragon?style=social"></a>
+<a href="https://github.com/betingrich/JEEP/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/botdep24/Immortal_dragon?label=Watching&style=social"></a>
 </p>></a>                     
 
    <h1 align="center"                  
@@ -33,15 +33,15 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a></p>
-- <a href="https://bugatti-session.onrender.com"><img title="GET SESSION OPT 1" src="https://img.shields.io/badge/GET SESSION OPT 1-h?color=pink&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
+- <a href="https://bugatti-session.onrender.com"><img title="GET SESSION OPT 1" src="https://img.shields.io/badge/GET SESSION OPT 1-h?color=pink&style=for-the-badge&logo=Dragon" width="220" height="38.45"/></a></p>
 
- <a href="https://joelsession1-4a8c04ad2935.herokuapp.com/pair"><img title="GET SESSION OPT 2" src="https://img.shields.io/badge/GET SESSION OPT 2-h?color=red&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
+ <a href="https://joelsession1-4a8c04ad2935.herokuapp.com/pair"><img title="GET SESSION OPT 2" src="https://img.shields.io/badge/GET SESSION OPT 2-h?color=red&style=for-the-badge&logo=Dragon" width="220" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 </p>
 
-- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/betingrich/Bugatti&template=https://github.com/betingrich/Bugatti"><img title="Deploy On Heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=bugatti" width="220" height="38.45"/></a></p>
+- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/botdep24/Immortal_Dragon&template=https://github.com/botdep24/Immortal_Dragon"><img title="Deploy On Heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=dragon" width="220" height="38.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
