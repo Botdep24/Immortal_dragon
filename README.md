@@ -5,7 +5,7 @@
   <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x">
     <img alt="wasi" height="400" src="https://files.catbox.moe/9pngse.jpg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   <h1 align="center">BUGATTI</h1>
+   <h1 align="center">IMMORTAL_DRAGON</h1>
   </a>
     <div align="center">
   <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
@@ -13,7 +13,7 @@
  
 </p>
 <p align="center">
-<a href="https://github.com/betingrich"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254740007567"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/betingrich"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VakcYbvEawdlEwGTtt39"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254740007567"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
@@ -52,7 +52,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Join my channel for updates
 <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://whatsapp.com/channel/0029VakcYbvEawdlEwGTtt39?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@
 HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me/254740007567">
+   <a href="https://wa.me/255779333974">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
@@ -72,7 +72,7 @@ HOW TO REACH THE OWNER?
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/betingrich/Bugatti/fork)
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/botdep24/Immortal_dragon/fork)
 
 2, TAP ON GET SESSIONS
 
