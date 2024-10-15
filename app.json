@@ -1,9 +1,9 @@
 {
-  "name":"𝑩𝒖𝒈𝒂𝒕𝒕𝒊",
+  "name":"Immortal_Dragon",
   "description":"𝑻𝒉𝒆 𝑭𝒂𝒔𝒕𝒆𝒔𝒕 𝑩𝒐𝒕",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/43a008a3fcf05cf6460f3.jpg",
-  "repository":"https://github.com/betingrich/Bugatti",
+  "logo":"https://files.catbox.moe/9pngse.jpg",
+  "repository":"https://github.com/botdep24/Immortal_dragon",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝐁𝐔𝐆𝐀𝐓𝐓𝐈",
+      "value":"Immortal_dragon",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/b62cbbd4cad63f9915ef5.jpg,https://telegra.ph/file/e359b71ab0fc21d0e6a0a.jpg,https://telegra.ph/file/7beb71953a851c73d6311.jpg,https://telegra.ph/file/a685513f29414e27a8a4b.jpg,https://telegra.ph/file/609a52915d8c6dfbe5422.jpg,https://telegra.ph/file/0a8ea3c08b51f3ae24e24.jpg",
+      "value":"https://files.catbox.moe/9pngse.jpg,https://files.catbox.moe/b9qtzn.jpg,https://files.catbox.moe/abd0tu.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐊𝐢𝐧𝐠 𝐌𝐚𝐫𝐢𝐬𝐞𝐥"
+    "value": "Sir Antony "
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254740007567"
+    "value": "255779333974"
   },
     "WARN_COUNT":
   {
